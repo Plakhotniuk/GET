@@ -22,4 +22,4 @@ grid on;
 set(gcf,'Visible','on');
 saveas(f1,'Matlab1.fig');
 saveas(f1,'Matlab1.png');
-//DET!!!
+//GET!!!
